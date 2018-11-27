@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 595.3 841.9" style="enable-background:new 0 0 595.3 841.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:#858585;}
+	.st3{font-family:'Roboto-Medium';}
+	.st4{font-size:12px;}
+	.st5{fill:#7C7C7D;}
+	.st6{font-size:14px;}
+</style>
+<g>
+	<g>
+		<g transform="translate(0,16)">
+			<path class="st0" d="M201,414.3L201,414.3L201,414.3L201,414.3z"/>
+			<g>
+				<g>
+					
+						<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-1456.27" y1="829.6106" x2="-1456.27" y2="830.6106" gradientTransform="matrix(-2.939152e-15 -16 -200 3.673940e-14 166323.125 -22894.0215)">
+						<stop  offset="0" style="stop-color:#D0E1F3"/>
+						<stop  offset="5.076702e-02" style="stop-color:#C6DCEF"/>
+						<stop  offset="0.1186" style="stop-color:#B7D5EA"/>
+						<stop  offset="0.1864" style="stop-color:#A5CDE4"/>
+						<stop  offset="0.2542" style="stop-color:#94C3DF"/>
+						<stop  offset="0.322" style="stop-color:#81B8DA"/>
+						<stop  offset="0.3898" style="stop-color:#6BADD6"/>
+						<stop  offset="0.4576" style="stop-color:#59A1D0"/>
+						<stop  offset="0.5254" style="stop-color:#4892C6"/>
+						<stop  offset="0.5932" style="stop-color:#3886C2"/>
+						<stop  offset="0.661" style="stop-color:#2979BA"/>
+						<stop  offset="0.7288" style="stop-color:#1C6BB0"/>
+						<stop  offset="0.7966" style="stop-color:#1B5DA4"/>
+						<stop  offset="0.8644" style="stop-color:#114E93"/>
+						<stop  offset="0.9322" style="stop-color:#16417B"/>
+						<stop  offset="1" style="stop-color:#213664"/>
+					</linearGradient>
+					<path class="st1" d="M201,414.3v-16h200v16H201z"/>
+				</g>
+				<text transform="matrix(1 0 0 1 196.6495 428.7214)" class="st2 st3 st4">3 млн</text>
+				<text transform="matrix(1 0 0 1 262.6495 428.7214)" class="st2 st3 st4">2 млн</text>
+				<text transform="matrix(1 0 0 1 324.6495 428.7214)" class="st2 st3 st4">1 млн</text>
+			</g>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 240.1302 406.5486)" class="st5 st3 st6">Бюджет в гривнях</text>
+	</g>
+</g>
+</svg>
